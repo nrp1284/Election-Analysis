@@ -1,7 +1,7 @@
 # Election Analysis
 
 ## Project Overview
-Project Sponcer: Colorado Board of Election
+Project Sponsor: Colorado Board of Election
 Project Deliverables:
 1. Calculate total amount of vote cast.
 2. Get a complete list of candidates who received votes.
