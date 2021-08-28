@@ -1,7 +1,14 @@
 # Election Analysis
 
+## Project manager
+Nayan patel
+
+## Project Sponsor
+Colorado Board of Election
+
 ## Project Overview
-Project Sponsor: Colorado Board of Election
+A Colorado Board of Elections Audit of a recent congressional election
+
 
 ## Project Deliverables:
 1. Calculate total amount of vote cast.
