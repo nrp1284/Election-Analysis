@@ -2,7 +2,8 @@
 
 ## Project Overview
 Project Sponsor: Colorado Board of Election
-Project Deliverables:
+
+## Project Deliverables:
 1. Calculate total amount of vote cast.
 2. Get a complete list of candidates who received votes.
 3. Calculate the total number of votes each candidate received.
