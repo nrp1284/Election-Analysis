@@ -22,6 +22,7 @@ with open(file_to_load) as election_data:
     # Print each row in the CSV file.
     for row in file_reader:
         # Add to the total vote count.
+
         total_votes += 1
         # Get the candidate name from each row.
         candidate_name = row[2]
