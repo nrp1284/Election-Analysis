@@ -40,9 +40,9 @@ Both results and process audits can be performed between elections for purposes 
 
 2. Election Audit Results:
 
-![Audit_Results](Resources/Audit_Results.png)
+![Audit_Results](Audit_Results.png)
 
-3. Election Audit Summary:
+1. Election Audit Summary:
 
 Election Results
 -------------------------
